@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "headlessgatsbymultilangmain.gatsbyjs.io",
+    siteUrl: "https://headlessgatsbymultilangmain.gtsb.io/",
   },
   plugins: [
     {
