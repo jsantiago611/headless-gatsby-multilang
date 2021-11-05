@@ -1,6 +1,6 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://headlessmultilingual.gatsbyjs.io",
+    siteUrl: "headlessgatsbymultilangmain.gatsbyjs.io",
   },
   plugins: [
     {
@@ -21,7 +21,7 @@ module.exports = {
     {
       resolve: "gatsby-source-datocms",
       options: {
-        apiToken: "df7ea117c4efe00347258c921623e2",
+        apiToken: "6a0328b9dd9aa78c1dd57a2cb9da2d",
       },
     },
   ],
